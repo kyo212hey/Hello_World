@@ -5,5 +5,8 @@ class UsersController < ApplicationController
 
   def new
   end
-  
+
+  def introduce
+  end
+
 end
